@@ -1,0 +1,5 @@
+output_tracked.mp4
+tracking_results.csv
+best.pt
+__pycache__/
+*.pyc
