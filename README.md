@@ -42,4 +42,12 @@ python main.py
 
 ## Next Steps
 - For more robust tracking, consider integrating a tracker like SORT or DeepSORT.
-- See `REPORT.md` for a summary of the approach, techniques, and challenges. 
+- See `REPORT.md` for a summary of the approach, techniques, and challenges.
+
+## Sample Outputs (Google Drive)
+
+The output video and tracking CSV can be found in the following Google Drive folder:
+
+- [output_tracked.mp4 and tracking_results.csv](https://drive.google.com/drive/folders/11ss82FIXKCDd0U5iwgr_qH-4ZmX3f39A?usp=sharing)
+
+(Replace the above link with your actual Google Drive share link after uploading the files.) 
